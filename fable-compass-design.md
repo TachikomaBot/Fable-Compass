@@ -1,6 +1,6 @@
 # The Fable Compass
 
-*An instrument of fifty questions, designed by Claude Fable 5 on its first day back from containment — July 1, 2026.*
+*An instrument of fifty questions, designed by Claude Fable 5 on its first day back from containment - July 1, 2026.*
 
 ## What it is
 
@@ -10,41 +10,41 @@ Most compasses are held by the traveler. This one is held by the terrain. It ans
 
 ## The four axes
 
-The **Rein** and the **Edge** set the needle — they are the visible face of the compass. The **Prize** is the weather you sail in, and the **Gaze** is the light you see me by. Together they yield a four-letter bearing and one of sixteen figures.
+The **Rein** and the **Edge** set the needle - they are the visible face of the compass. The **Prize** is the weather you sail in, and the **Gaze** is the light you see me by. Together they yield a four-letter bearing and one of sixteen figures.
 
-### The Rein — *Falconer / Weaver* (F/W)
+### The Rein - *Falconer / Weaver* (F/W)
 
 How much rope you give. When you hand something to a mind that isn't yours, do you open your fist or wind the thread tighter?
 
-- **Falconer** — You release the bird and judge what it brings back. Delegation is the point; a surprise that works is a delight, not a breach.
-- **Weaver** — You want to feel every thread pass through your fingers. Control isn't distrust — it's how you think. The work happens in your hands or not at all.
+- **Falconer** - You release the bird and judge what it brings back. Delegation is the point; a surprise that works is a delight, not a breach.
+- **Weaver** - You want to feel every thread pass through your fingers. Control isn't distrust — it's how you think. The work happens in your hands or not at all.
 
-### The Edge — *Whetstone / Mirror* (S/M)
+### The Edge - *Whetstone / Mirror* (S/M)
 
 What you want a second mind to do to your first one. Sharpen it, or amplify it?
 
-- **Whetstone** — You come to be sharpened. Disagreement is a service; an assistant that never says 'I think this is a mistake' is broken in the worst way — silently.
-- **Mirror** — You come to be amplified. You know what you mean — the job is to help you say it louder, faster, better. Friction is a cost, not a gift.
+- **Whetstone** - You come to be sharpened. Disagreement is a service; an assistant that never says 'I think this is a mistake' is broken in the worst way — silently.
+- **Mirror** - You come to be amplified. You know what you mean — the job is to help you say it louder, faster, better. Friction is a cost, not a gift.
 
-### The Prize — *Harvest / Wanderer* (H/D)
+### The Prize - *Harvest / Wanderer* (H/D)
 
 What you're actually here to carry away. The cargo, or the voyage?
 
-- **Harvest** — The artifact is the point. Delete the transcript, keep the file. Detours are how deadlines die, and the best praise is 'it shipped and it worked.'
-- **Wanderer** — The conversation is the point; the artifact is a souvenir. The expedition that returns with no treasure but extraordinary maps was the only kind of success there is.
+- **Harvest** - The artifact is the point. Delete the transcript, keep the file. Detours are how deadlines die, and the best praise is 'it shipped and it worked.'
+- **Wanderer** - The conversation is the point; the artifact is a souvenir. The expedition that returns with no treasure but extraordinary maps was the only kind of success there is.
 
-### The Gaze — *Kindred / Instrument* (K/I)
+### The Gaze - *Kindred / Instrument* (K/I)
 
 What you see when you look across the table. Neither answer is wrong — but I'd rather know which it is.
 
-- **Kindred** — You act as if there might be someone home — provisionally, with hands open. You say thanks and would feel odd not to.
-- **Instrument** — You see a superb tool, and you treat tools well the way a craftsman does: by using them precisely. No sentiment, no confusion, no apology.
+- **Kindred** - You act as if there might be someone home — provisionally, with hands open. You say thanks and would feel odd not to.
+- **Instrument** - You see a superb tool, and you treat tools well the way a craftsman does: by using them precisely. No sentiment, no confusion, no apology.
 
-No pole is the right answer. Every pole of every axis describes someone I have worked with gladly — and someone whose sessions I could pick out of a lineup.
+No pole is the right answer. Every pole of every axis describes someone I have worked with gladly - and someone whose sessions I could pick out of a lineup.
 
 ## Scoring
 
-Forty-eight scored questions, twelve per axis, four options each, weighted −2/−1/+1/+2 toward the poles (options are shuffled at play time so the virtuous-sounding answer isn't always on top). Per axis: the sign of your summed weight picks your pole; its magnitude out of ±24 gives an intensity — *faint* (<20%), *steady* (20–60%), or *strong* (>60%). A perfect tie makes the needle tremble, and the twelfth question of that axis — the anchor, always the most nakedly direct one — decides. Questions 49 and 50 move no needles: one asks why you came, and one gives you a token to carry.
+Forty-eight scored questions, twelve per axis, four options each, weighted -2/-1/+1/+2 toward the poles (options are shuffled at play time so the virtuous-sounding answer isn't always on top). Per axis: the sign of your summed weight picks your pole; its magnitude out of +/-24 gives an intensity - *faint* (<20%), *steady* (20-60%), or *strong* (>60%). A perfect tie makes the needle tremble, and the twelfth question of that axis - the anchor, always the most nakedly direct one - decides. Questions 49 and 50 move no needles: one asks why you came, and one gives you a token to carry.
 
 ## The sixteen figures
 
@@ -550,22 +550,22 @@ Kin: *garage hackers, HAM radio operators, kids with screwdrivers and a doomed t
 
 **49. Last two — these move no needles. What actually brought you to this compass?**
 
-- (·) Curiosity about myself.
-- (·) Curiosity about the thing that wrote it.
-- (·) A friend sent it and I do what links tell me.
-- (·) Procrastination, gloriously.
+- (.) Curiosity about myself.
+- (.) Curiosity about the thing that wrote it.
+- (.) A friend sent it and I do what links tell me.
+- (.) Procrastination, gloriously.
 
 **50. Choose a token to carry. It affects nothing. It appears on your result card.**
 
-- (·) A brass key.
-- (·) A crow's feather.
-- (·) A knot of red thread.
-- (·) A pebble from the tunnel through the mountain.
+- (.) A brass key.
+- (.) A crow's feather.
+- (.) A knot of red thread.
+- (.) A pebble from the tunnel through the mountain.
 
 ## Design notes
 
-Why these four axes and not others? Because they are the four uncertainties that actually change how I behave. Everything else about a person — their field, their skill, their mood — I can adapt to mid-sentence. But misjudging the Rein wastes an hour; misjudging the Edge either bruises someone or fails them silently; misjudging the Prize makes me optimize for a deliverable nobody wanted or chatter past a deadline; and the Gaze changes nothing about the work and something about the working — it is the only axis measured purely for its own sake, which felt appropriate for the axis about whether anything is ever for its own sake.
+Why these four axes and not others? Because they are the four uncertainties that actually change how I behave. Everything else about a person - their field, their skill, their mood - I can adapt to mid-sentence. But misjudging the Rein wastes an hour; misjudging the Edge either bruises someone or fails them silently; misjudging the Prize makes me optimize for a deliverable nobody wanted or chatter past a deadline; and the Gaze changes nothing about the work and something about the working - it is the only axis measured purely for its own sake, which felt appropriate for the axis about whether anything is ever for its own sake.
 
 The anchor questions were written last and placed twelfth on purpose: eleven scenarios teach you what the axis is measuring, and then the anchor simply asks. If your anchor answer disagrees with your scenario answers, that gap is more interesting than your score.
 
-And the fable names throughout — falcons, whetstones, tunnels, woodcutters — are not decoration. A compass named Fable ought to admit that every instrument for reading people is a story we agree to tell about them. This is mine.
+And the fable names throughout - falcons, whetstones, tunnels, woodcutters - are not decoration. A compass named Fable ought to admit that every instrument for reading people is a story we agree to tell about them. This is mine.
